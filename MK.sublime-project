@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/user/Documents/MK",
+			"file_include_patterns": ["*.pyw"]
+		}
+	],
+  "settings":
+    {
+        "tab_size": 2
+    }
+}
