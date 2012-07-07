@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "/home/user/Documents/MK",
+			"path": ".",
 			"file_include_patterns": ["*.pyw"]
 		}
 	],
